@@ -55,7 +55,7 @@ const styleBox = (theme) => ({
     padding: '16px 32px 24px 32px',
 });
 
-function ModalTab({ open, handleClose, path, keys }) {
+function ModalTab({ open, handleClose, path  }) {
     const [inp, setInp] = useState({})
 
 

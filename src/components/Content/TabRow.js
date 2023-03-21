@@ -2,7 +2,7 @@ import DeleteIcon from '@mui/icons-material/Delete';
 import { TableCell, IconButton } from '@mui/material/';
 import CreateIcon from '@mui/icons-material/Create';
 
-function TabRow({ el, row, index, id, content }) {
+function TabRow({ el, row, index }) {
 
     return (
         <>
